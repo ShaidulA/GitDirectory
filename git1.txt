@@ -1,1 +1,2 @@
-Hello welcome to the GIT world.
+Hello welcome to the GIT world. 
+github global variable
