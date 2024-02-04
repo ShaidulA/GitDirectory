@@ -1,2 +1,4 @@
 Hello welcome to the GIT world. 
 github global variable
+
+changed in working area
