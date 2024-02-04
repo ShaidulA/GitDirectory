@@ -1,6 +1,1 @@
-Hello welcome to the GIT world. 
-github global variable
-
-changed in working area
-
-demo is working
+Git world I am a branch of master
